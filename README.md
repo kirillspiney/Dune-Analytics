@@ -7,6 +7,7 @@
 - Top Routed Paths for Router02 for Uniswap v2 USDC-WETH: https://dune.com/queries/6322054
 - Number of pairs created containing USDC and WETH: https://dune.com/queries/6311800
 - Liquidity Added and Removed & LPs Over Time (USDC/WETH v2 Uniswap): https://dune.com/queries/6378747
+- What is the LP Source Diversity for USDC/WETH?: https://dune.com/queries/6398201
 
 ## Dashboards
 
