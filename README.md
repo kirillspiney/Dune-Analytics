@@ -8,6 +8,7 @@
 - Number of pairs created containing USDC and WETH: https://dune.com/queries/6311800
 - Liquidity Added and Removed & LPs Over Time (USDC/WETH v2 Uniswap): https://dune.com/queries/6378747
 - What is the LP Source Diversity for USDC/WETH?: https://dune.com/queries/6398201
+- Uniswap v2 % Liquidity Token Reserves Distribution: https://dune.com/queries/6407103/10177869
 
 ## Dashboards
 
