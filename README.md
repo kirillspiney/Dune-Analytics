@@ -10,6 +10,7 @@
 - What is the LP Source Diversity for USDC/WETH?: https://dune.com/queries/6398201
 - Uniswap v2 % Liquidity Token Reserves Distribution: https://dune.com/queries/6407103/10177869
 - Daily Reward Distribution Top 5: https://dune.com/queries/6413457
+- Total reserves and price impact over time for USDC/WETH: https://dune.com/queries/6431915
 
 ## Dashboards
 
