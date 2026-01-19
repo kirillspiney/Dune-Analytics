@@ -11,7 +11,9 @@
 - Uniswap v2 % Liquidity Token Reserves Distribution: https://dune.com/queries/6407103/10177869
 - Daily Reward Distribution Top 5: https://dune.com/queries/6413457
 - Total reserves and price impact over time for USDC/WETH: https://dune.com/queries/6431915
+- ZKsync Network Economics: Sequencer Revenue & L1 Cost: https://dune.com/queries/6558522
 
 ## Dashboards
 
 - Uniswap V2 Analytics: https://dune.com/spiney/uniswap-v2-analytics
+- ZKsync Network Economics: Sequencer Revenue & L1 Cost Dashboard: https://dune.com/spineyk/zksync
