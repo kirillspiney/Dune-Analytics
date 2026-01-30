@@ -16,4 +16,4 @@
 ## Dashboards
 
 - Uniswap V2 Analytics: https://dune.com/spiney/uniswap-v2-analytics
-- ZKsync Network Economics: Sequencer Revenue & L1 Cost Dashboard: https://dune.com/spineyk/zksync
+- ZKsync Network Economics: Sequencer Revenue & L1 Cost Dashboard: https://dune.com/spiney/zksync
